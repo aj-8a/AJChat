@@ -1,6 +1,6 @@
-# AJChat — Pro Luxury
+# AJChat — Pro Luxury | Created by Aajimin (AJ-8A)
 
-An original realtime messaging experience with a **Pro Luxury** interface.
+**AJChat is a messaging project created by Aajimin (AJ-8A).** An original realtime messaging experience with a **Pro Luxury** interface.\n\nCreator profile: https://github.com/AJ-8A
 
 Deep midnight glass · Champagne gold accents · Refined motion · Private · Fast · Global
 
